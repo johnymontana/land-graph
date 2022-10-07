@@ -28,5 +28,6 @@ ON CREATE SET
   p += feature.properties
 MERGE (g:Geometry {FID: p.FID})
 ON CREATE SET 
-  g.coordinates = [coord IN feature.geometry.coordinates | point({latitude: coord[1], longitude: coord[0]})]
+  g.coordinates = [coord IN feature.geometry.coordinates[0] | point({latitude: coord[1], longitude: coord[0]})]
+MERGE (p)-[:HAS_GEOMETRY]->(g)
 ```
