@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "land-graph"
+version = "0.1.0"
+description = ""
+authors = ["johnymontana <lyonwj@gmail.com>"]
+readme = "README.md"
+packages = [{include = "land_graph"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+ipykernel = "^6.16.0"
+neo4j = "^5.0.1"
+requests = "^2.28.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

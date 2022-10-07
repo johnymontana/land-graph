@@ -1,0 +1,217 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 Pro Publica Inc. All Rights Reserved.",
+    "results": [
+        {
+            "num_results": 5,
+            "offset": 0,
+            "bills": [
+                {
+                    "bill_id": "hr1755-117",
+                    "bill_slug": "hr1755",
+                    "bill_type": "hr",
+                    "number": "H.R.1755",
+                    "bill_uri": "https://api.propublica.org/congress/v1/117/bills/hr1755.json",
+                    "title": "To designate certain National Forest System lands and certain public lands under the jurisdiction of the Secretary of the Interior in the States of Idaho, Montana, Oregon, Washington, and Wyoming as wilderness, wild and scenic rivers, wildland recovery areas, and biological connecting corridors, and for other purposes.",
+                    "short_title": "Northern Rockies Ecosystem Protection Act",
+                    "sponsor_title": "Rep.",
+                    "sponsor_id": "M000087",
+                    "sponsor_name": "Carolyn B. Maloney",
+                    "sponsor_state": "NY",
+                    "sponsor_party": "D",
+                    "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000087.json",
+                    "gpo_pdf_uri": null,
+                    "congressdotgov_url": "https://www.congress.gov/bill/117th-congress/house-bill/1755",
+                    "govtrack_url": "https://www.govtrack.us/congress/bills/117/hr1755",
+                    "introduced_date": "2021-03-10",
+                    "active": true,
+                    "last_vote": null,
+                    "house_passage": null,
+                    "senate_passage": null,
+                    "enacted": null,
+                    "vetoed": null,
+                    "cosponsors": 72,
+                    "cosponsors_by_party": {
+                        "D": 72
+                    },
+                    "committees": "House Natural Resources Committee",
+                    "committee_codes": [
+                        "HSII"
+                    ],
+                    "subcommittee_codes": [
+                        "HSII24",
+                        "HSII10"
+                    ],
+                    "primary_subject": "Public Lands and Natural Resources",
+                    "summary": "Northern Rockies Ecosystem Protection Act This bill designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.  The Department of the Interior and the Department of Agriculture (USDA) must accept donations of leases or permits authorizing grazing on specified public or National Forest System lands. The bill also designates (1) specified federal lands as biological connecting corridors and as special corridor management areas; (2) segments of specified rivers and creeks in Idaho, Montana, and Wyoming as components of the National Wild and Scenic Rivers System; and (3) specified areas as wildland recovery areas. USDA shall develop a wildland recovery plan for each recovery area.  A panel of independent scientists shall study roadless lands greater than 1,000 acres that are within the National Forest System in the Wild Rockies bioregion in Idaho, Montana, Oregon, Washington, or Wyoming and that are not designated as components of the National Wilderness Preservation System for their role in maintaining biological diversity in the Northern Rockies and as part of the overall forest reserve system. Any new road construction or reconstruction or timber harvest is prohibited in those lands after the evaluation without an act of Congress. Oil or gas leasing, mining, or other development which impairs the natural and roadless qualities of the land is also prohibited.",
+                    "summary_short": "Northern Rockies Ecosystem Protection Act This bill designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.  The Department of the Interior and the Department of Agriculture (USDA) must accept donations of leases or permits authorizing grazing on specified public or National Forest System ...",
+                    "latest_major_action_date": "2021-05-12",
+                    "latest_major_action": "Referred to the Subcommittee for Indigenous Peoples of the United States."
+                },
+                {
+                    "bill_id": "s1276-117",
+                    "bill_slug": "s1276",
+                    "bill_type": "s",
+                    "number": "S.1276",
+                    "bill_uri": "https://api.propublica.org/congress/v1/117/bills/s1276.json",
+                    "title": "A bill to designate certain National Forest System land and certain public land under the jurisdiction of the Secretary of the Interior in the States of Idaho, Montana, Oregon, Washington, and Wyoming as wilderness, wild and scenic rivers, wildland recovery areas, and biological connecting corridors, and for other purposes.",
+                    "short_title": "Northern Rockies Ecosystem Protection Act",
+                    "sponsor_title": "Sen.",
+                    "sponsor_id": "W000802",
+                    "sponsor_name": "Sheldon Whitehouse",
+                    "sponsor_state": "RI",
+                    "sponsor_party": "D",
+                    "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000802.json",
+                    "gpo_pdf_uri": null,
+                    "congressdotgov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/1276",
+                    "govtrack_url": "https://www.govtrack.us/congress/bills/117/s1276",
+                    "introduced_date": "2021-04-21",
+                    "active": false,
+                    "last_vote": null,
+                    "house_passage": null,
+                    "senate_passage": null,
+                    "enacted": null,
+                    "vetoed": null,
+                    "cosponsors": 11,
+                    "cosponsors_by_party": {
+                        "D": 10,
+                        "ID": 1
+                    },
+                    "committees": "Senate Energy and Natural Resources Committee",
+                    "committee_codes": [
+                        "SSEG"
+                    ],
+                    "subcommittee_codes": [],
+                    "primary_subject": "Public Lands and Natural Resources",
+                    "summary": "Northern Rockies Ecosystem Protection Act  This bill designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.   The bill also designates specified federal lands as biological connecting corridors and as special corridor management areas.  The Department of the Interior and the Department of Agriculture (USDA) shall accept the donation of valid existing permits or leases authorizing grazing on specified public lands or National Forest System lands. The bill designates segments of specified rivers and creeks in Idaho, Montana, and Wyoming as components of the National Wild and Scenic Rivers System.   The bill designates specified areas as wildland recovery areas. USDA shall develop a wildland recovery plan for each recovery area.  A panel of independent scientists shall study roadless lands greater than 1,000 acres that are within the National Forest System in the Wild Rockies bioregion in Idaho, Montana, Oregon, Washington, or Wyoming, but not designated as components of the National Wilderness Preservation System, for their role in maintaining biological diversity. The bill prohibits road construction, timber harvest, oil or gas leasing, mining, or other development that impairs the natural and roadless qualities of the land. ",
+                    "summary_short": "Northern Rockies Ecosystem Protection Act  This bill designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.   The bill also designates specified federal lands as biological connecting corridors and as special corridor management areas.  The Department of the Interior and the Department of...",
+                    "latest_major_action_date": "2021-04-21",
+                    "latest_major_action": "Read twice and referred to the Committee on Energy and Natural Resources."
+                },
+                {
+                    "bill_id": "s3022-114",
+                    "bill_slug": "s3022",
+                    "bill_type": "s",
+                    "number": "S.3022",
+                    "bill_uri": "https://api.propublica.org/congress/v1/114/bills/s3022.json",
+                    "title": "A bill to designate certain National Forest System land and certain public land under the jurisdiction of the Secretary of the Interior in the States of Idaho, Montana, Oregon, Washington, and Wyoming as wilderness, wild and scenic rivers, wildland recovery areas, and biological connecting corridors, and for other purposes.",
+                    "short_title": "Northern Rockies Ecosystem Protection Act",
+                    "sponsor_title": "Sen.",
+                    "sponsor_id": "W000802",
+                    "sponsor_name": "Sheldon Whitehouse",
+                    "sponsor_state": "RI",
+                    "sponsor_party": "D",
+                    "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000802.json",
+                    "gpo_pdf_uri": null,
+                    "congressdotgov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/3022",
+                    "govtrack_url": "https://www.govtrack.us/congress/bills/114/s3022",
+                    "introduced_date": "2016-06-06",
+                    "active": false,
+                    "last_vote": null,
+                    "house_passage": null,
+                    "senate_passage": null,
+                    "enacted": null,
+                    "vetoed": null,
+                    "cosponsors": 8,
+                    "cosponsors_by_party": {
+                        "D": 8
+                    },
+                    "committees": "Senate Energy and Natural Resources Committee",
+                    "committee_codes": [
+                        "SSEG"
+                    ],
+                    "subcommittee_codes": [],
+                    "primary_subject": "Public Lands and Natural Resources",
+                    "summary": "Northern Rockies Ecosystem Protection Act This bill designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.   The bill also designates specified federal lands as biological connecting corridors and as special corridor management areas.  The Wild and Scenic Rivers Act is amended to designate segments of specified rivers and creeks in Idaho, Montana, and Wyoming as components of the National Wild and Scenic Rivers System.   The bill designates specified areas as wildland recovery areas. The Department of Agriculture shall develop a wildland recovery plan for each recovery area.   A specified panel of independent scientists shall study roadless lands greater than 1,000 acres that are within the National Forest System in the Wild Rockies bioregion in Idaho, Montana, Oregon, Washington, or Wyoming, but not designated as components of the National Wilderness Preservation System, for their role in maintaining biological diversity in the Northern Rockies and as part of the overall forest reserve system. Any new or existing road construction or reconstruction or timber harvest is prohibited in those lands after the evaluation. Oil or gas leasing, mining, or other development that impairs the natural and roadless qualities of the land is also prohibited.  The Department of the Interior may apply the Indian Self-Determination and Education Assistance Act in carrying out this bill. ",
+                    "summary_short": "Northern Rockies Ecosystem Protection Act This bill designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.   The bill also designates specified federal lands as biological connecting corridors and as special corridor management areas.  The Wild and Scenic Rivers Act is amended to designat...",
+                    "latest_major_action_date": "2016-06-06",
+                    "latest_major_action": "Read twice and referred to the Committee on Energy and Natural Resources."
+                },
+                {
+                    "bill_id": "hr996-114",
+                    "bill_slug": "hr996",
+                    "bill_type": "hr",
+                    "number": "H.R.996",
+                    "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr996.json",
+                    "title": "To designate certain National Forest System lands and certain public lands under the jurisdiction of the Secretary of the Interior in the States of Idaho, Montana, Oregon, Washington, and Wyoming as wilderness, wild and scenic rivers, wildland recovery areas, and biological connecting corridors, and for other purposes.",
+                    "short_title": "Northern Rockies Ecosystem Protection Act",
+                    "sponsor_title": "Rep.",
+                    "sponsor_id": "M000087",
+                    "sponsor_name": "Carolyn B. Maloney",
+                    "sponsor_state": "NY",
+                    "sponsor_party": "D",
+                    "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000087.json",
+                    "gpo_pdf_uri": null,
+                    "congressdotgov_url": "https://www.congress.gov/bill/114th-congress/house-bill/996",
+                    "govtrack_url": "https://www.govtrack.us/congress/bills/114/hr996",
+                    "introduced_date": "2015-02-13",
+                    "active": false,
+                    "last_vote": null,
+                    "house_passage": null,
+                    "senate_passage": null,
+                    "enacted": null,
+                    "vetoed": null,
+                    "cosponsors": 37,
+                    "cosponsors_by_party": {
+                        "D": 36,
+                        "R": 1
+                    },
+                    "committees": "House Natural Resources Committee",
+                    "committee_codes": [
+                        "HSII"
+                    ],
+                    "subcommittee_codes": [
+                        "HSII10"
+                    ],
+                    "primary_subject": "Public Lands and Natural Resources",
+                    "summary": "Northern Rockies Ecosystem Protection Act Designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.  Designates specified federal lands as biological connecting corridors and as special corridor management areas.  Amends the Wild and Scenic Rivers Act to designate segments of specified rivers and creeks in Idaho, Montana, and Wyoming as components of the National Wild and Scenic Rivers System.  Designates specified areas as wildland recovery areas. Requires the development of a wildland recovery plan for each recovery area.  Directs roadless lands greater than 1,000 acres that are within the National Forest System in the Wild Rockies bioregion in Idaho, Montana, Oregon, Washington, or Wyoming and that are not designated as components of the National Wilderness Preservation System to be studied for their role in maintaining biological diversity in the Northern Rockies and as part of the overall forest reserve system. Prohibits any new road construction or reconstruction or timber harvest in those lands after the evaluation without an Act of Congress. Prohibits oil or gas leasing, mining, or other development which impairs the natural and roadless qualities of the land.  Permits provisions of the Indian Self-Determination and Education Assistance Act to be applied, as appropriate, in the implementation of this Act. ",
+                    "summary_short": "Northern Rockies Ecosystem Protection Act Designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.  Designates specified federal lands as biological connecting corridors and as special corridor management areas.  Amends the Wild and Scenic Rivers Act to designate segments of specified river...",
+                    "latest_major_action_date": "2015-03-16",
+                    "latest_major_action": "Referred to the Subcommittee on Federal Lands."
+                },
+                {
+                    "bill_id": "hr1187-113",
+                    "bill_slug": "hr1187",
+                    "bill_type": "hr",
+                    "number": "H.R.1187",
+                    "bill_uri": "https://api.propublica.org/congress/v1/113/bills/hr1187.json",
+                    "title": "To designate certain National Forest System lands and public lands under the jurisdiction of the Secretary of the Interior in the States of Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and wild and scenic rivers, to provide for the establishment of a Northern Rockies Wildlife Habitat and Corridors Information System and Program, and for other purposes.",
+                    "short_title": "Northern Rockies Ecosystem Protection Act",
+                    "sponsor_title": "Rep.",
+                    "sponsor_id": "M000087",
+                    "sponsor_name": "Carolyn B. Maloney",
+                    "sponsor_state": "NY",
+                    "sponsor_party": "D",
+                    "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000087.json",
+                    "gpo_pdf_uri": null,
+                    "congressdotgov_url": "https://www.congress.gov/bill/113th-congress/house-bill/1187",
+                    "govtrack_url": "https://www.govtrack.us/congress/bills/113/hr1187",
+                    "introduced_date": "2013-03-14",
+                    "active": false,
+                    "last_vote": null,
+                    "house_passage": null,
+                    "senate_passage": null,
+                    "enacted": null,
+                    "vetoed": null,
+                    "cosponsors": 31,
+                    "cosponsors_by_party": {
+                        "D": 31,
+                        "R": 1
+                    },
+                    "committees": "House Natural Resources Committee",
+                    "committee_codes": [
+                        "HSII"
+                    ],
+                    "subcommittee_codes": [
+                        "HSII10"
+                    ],
+                    "primary_subject": "Public Lands and Natural Resources",
+                    "summary": "Northern Rockies Ecosystem Protection Act - Designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.  Sets forth provisions for the management of the lands designated as wilderness by this Act, including regarding water rights, tribal rights, fish and wildlife, and grazing permits and leases. Authorizes the Secretaries of the Interior and of Agriculture (USDA) to take necessary measures for the control of fire, insects, and disease on such lands.   Establishes a Northern Rockies Fish and Wildlife Habitat and Corridors Information Program. Requires the development of a Northern Rockies Habitat and Corridors Information System.  Sets forth specified additional provisions with regard to Indian tribes. Permits provisions of the Indian Self-Determination and Education Assistance Act to be applied, as appropriate, in the implementation of this Act.  Amends the Wild and Scenic Rivers Act to designate segments of specified rivers and creeks in Idaho, Montana, and Wyoming as components of the National Wild and Scenic Rivers System. ",
+                    "summary_short": "Northern Rockies Ecosystem Protection Act - Designates specified National Forest System lands, National Park System lands, and public lands in Idaho, Montana, Oregon, Washington, and Wyoming as wilderness and as components or additions to existing components of the National Wilderness Preservation System.  Sets forth provisions for the management of the lands designated as wilderness by this Act, including regarding water rights, tribal rights, fish and wildlife, and grazing permits and lease...",
+                    "latest_major_action_date": "2013-03-26",
+                    "latest_major_action": "Referred to the Subcommittee on Public Lands and Environmental Regulation."
+                }
+            ]
+        }
+    ]
+}
