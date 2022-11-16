@@ -2,6 +2,8 @@
 
 Inspired by [https://github.com/acannistra/landwatch](https://github.com/acannistra/landwatch)
 
+![](img/bloom1.png)
+
 Combining datasets with graphs!
 
 Protected areas - [USGS Protected Areas Database](https://www.usgs.gov/programs/gap-analysis-project/science/pad-us-data-download?qt-science_center_objects=0#qt-science_center_objects)
