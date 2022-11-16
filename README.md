@@ -1,5 +1,7 @@
 # Land Graph 
 
+Inspired by [https://github.com/acannistra/landwatch](https://github.com/acannistra/landwatch)
+
 ## Install
 
 This project uses Poetry for managing Python dependencies and virtual environments.
