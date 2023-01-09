@@ -12,6 +12,7 @@ jupyter = "^1.0.0"
 ipykernel = "^6.16.0"
 neo4j = "^5.0.1"
 requests = "^2.28.1"
+poetry-dotenv-plugin = "^0.1.0"
 
 
 [build-system]
