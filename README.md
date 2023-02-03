@@ -50,7 +50,7 @@ Next, reproject to WGS84 using `ogr2ogr`:
 ogr2ogr -s_srs ESRI:102039 -t_srs EPSG:4326 -f geojson data/region9/output.json data/region9/PADUS3_0Fee_Region9.json
 ```
 
-Set root of `LOAD CSV` to `data` directory in neo4j.conf
+Set root directory for import to `data` directory in neo4j.conf
 
 ```
 server.directories.import=/Users/lyonwj/github/johnymontana/land-graph/data
@@ -75,7 +75,7 @@ CREATE CONSTRAINT FOR (p:Parcel) REQUIRE p.name IS UNIQUE;
 CREATE CONSTRAINT FOR (g:Geometry) REQUIRE g.FID IS UNIQUE;
 ```
 
-Import in Neo4j using `apoc.load.csv`:
+Import in Neo4j using `apoc.load.json`:
 
 ```Cypher
 CALL apoc.load.json('file:///region9/output.json') 
