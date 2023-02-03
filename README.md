@@ -56,10 +56,10 @@ Set root of `LOAD CSV` to `data` directory in neo4j.conf
 server.directories.import=/Users/lyonwj/github/johnymontana/land-graph/data
 ```
 
-Also, increase Neo4j maximum memory heap size in `neo4j.conf`:
+Also, increase Neo4j maximum memory heap size in `neo4j.conf` if needed:
 
 ```
-server.memory.heap.max_size=16G
+server.memory.heap.max_size=1G
 ```
 
 Enable file import with APOC in `conf/apoc.conf`:
